@@ -1,1 +1,2 @@
 # Astute-Attendance-Management-System
+Astute Attendance Management System” is a modern technique for marking the attendance in schools, colleges and offices that have been introduced using image processing and deep learning. In the system a Raspberry Pi is used installed with OpenCV library and a Raspberry Pi Camera module is connected for face detection and recognition and the face detection differentiates faces from non-faces which is essential for accurate attendance!
